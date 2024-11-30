@@ -4,11 +4,17 @@
 The sales director faces challenges in tracking sales and understanding the business's performance.This initiative aims to outpace competitors in the market and enable data-driven decision-making. The project is expected to address stakeholders' questions across various aspects and provides insights like sales quantity, revenue, profit, profit margin, top customers, top markets, and revenue trend.
 I worked on this project as part of my Power BI course from Codebasics .
 
+
+
 **Tech Stack**
 *SQL
+
 *Power BI Desktop
+
 *Excel
+
 *DAX
+
 *DAX Studio (For Optimizing Report)
 
 **What did I learn?**
