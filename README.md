@@ -7,6 +7,7 @@ I worked on this project as part of my Power BI course from Codebasics .
 
 
 **Tech Stack**
+
 *SQL
 
 *Power BI Desktop
@@ -18,25 +19,45 @@ I worked on this project as part of my Power BI course from Codebasics .
 *DAX Studio (For Optimizing Report)
 
 **What did I learn?**
+
 *Basics of Power Bi
+
 *Questions to be asked before the project
+
 *Stakeholder Management, Stakeholder Mapping Analysis
+
 *Importing data from SQL , Excel
+
 *ETL (Extract,Transform,Load)
+
 *Creating measures using DAX 
+
 *Creating Calculated Columns
+
 *Data Modelling [Star Schema, Snowflake Schema]
+
 *Using Bookmarks to switch between visuals
+
 *Creating tooltip
+
 *Page Navigation with buttons
+
 *Creating date table using M language
+
 *Dynamic Titles based on applied filters
+
 *Choosing the right visuals
+
 *Power Bi Services 
+
 *Publishing the dashboard to Power Bi Services
+
 *Optimizing Report Using DAX studio
+
 *Query folding
+
 *Data validation techniques 
+
 *Supply Chain Basics
 
 **Business terms** : 
